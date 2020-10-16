@@ -1,0 +1,8 @@
+<MAP MapName='MAP-0' InfoType='BUILDING_CENTER_LIST_CHECKER' AdditionalName='Berlin' >
+<MAP MapName='MAP-1' InfoType='BUILDING_CENTER_LIST_CHECKER' AdditionalName='Berlin' >
+<MAP MapName='MAP-2' InfoType='BUILDING_CENTER_LIST_CHECKER' AdditionalName='Berlin' >
+<MAP MapName='MAP-3' InfoType='BUILDING_CENTER_LIST_CHECKER' AdditionalName='Berlin' >
+<MAP MapName='MAP-4' InfoType='BUILDING_CENTER_LIST_CHECKER' AdditionalName='VC' >
+<MAP MapName='MAP-5' InfoType='BUILDING_CENTER_LIST_CHECKER' AdditionalName='VC' >
+<MAP MapName='MAP-6' InfoType='BUILDING_CENTER_LIST_CHECKER' AdditionalName='Paris' >
+<MAP MapName='MAP-7' InfoType='BUILDING_CENTER_LIST_CHECKER' AdditionalName='Paris' >
