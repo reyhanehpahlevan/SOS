@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=sh -c "cd /home/$USER/Desktop/sos-server/boot ;./SOSLogViewer.sh %U"
+#Exec=gnome-terminal --working-directory /home/ali/Desktop/sos-server/boot -e java -cp ../jars/sosNamayangar.jar sosNamayangar.SOSMapChooser
+
+Comment[en_US]=SOS Log Viewer
+Name=SOS Log Viewer
+Comment=SOS Log Viewer
+Icon=/home/sos/Desktop/sos-server/supplement/logplay.png

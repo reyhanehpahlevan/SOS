@@ -1,0 +1,34 @@
+10
+
+dir
+16
+https://192.168.14.64/svn/2013/winKernel_fullConfig/maps/RC2012Maps/maps_day1/Eindhoven1
+https://192.168.14.64/svn/2013
+
+
+
+2013-02-13T16:11:17.312951Z
+16
+mrl
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+27b0cae6-998f-ad48-8985-db30dc57f3be
+
+config
+dir
+
+map
+dir
+

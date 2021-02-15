@@ -1,0 +1,6 @@
+DEBUG collapse.CollapseSimulator : Starting Connection from Collapse Simulator v1.1. Registry: Kernel local registry
+DEBUG collapse.CollapseSimulator : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG collapse.CollapseSimulator : Using seed 8754487
+INFO collapse.CollapseSimulator : collapse.CollapseSimulator@731b5554 connected
+DEBUG collapse.CollapseSimulator : Re-indexing world model
+DEBUG collapse.CollapseSimulator : Finished re-index. Took 48ms

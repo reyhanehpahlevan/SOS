@@ -1,0 +1,6 @@
+DEBUG sosNamayangar.SOSViewer : Starting Connection from sosNamayangar.SOSViewer. Registry: Kernel local registry
+DEBUG sosNamayangar.SOSViewer : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sosNamayangar.SOSViewer : Using seed 8754487
+INFO sosNamayangar.SOSViewer : S.O.S Namayangar connected
+DEBUG sosNamayangar.SOSViewer : Re-indexing world model
+DEBUG sosNamayangar.SOSViewer : Finished re-index. Took 67ms

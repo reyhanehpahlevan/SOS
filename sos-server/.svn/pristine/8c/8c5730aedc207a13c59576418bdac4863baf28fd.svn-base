@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=sh -c "cd /home/$USER/Desktop/sos-server/boot ;sh scenarioEditor.sh"
+Name=Scenario Editor
+Comment=Scenario Editor
+Icon=/home/sos/Desktop/sos-server/supplement/mapschooser.png

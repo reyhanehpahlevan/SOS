@@ -1,0 +1,7 @@
+DEBUG ignition.IgnitionSimulator : Starting Connection from Ignition simulator. Registry: Kernel local registry
+DEBUG ignition.IgnitionSimulator : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG ignition.IgnitionSimulator : Using seed 8754487
+INFO ignition.IgnitionSimulator : ignition.IgnitionSimulator@4a395f29 connected
+DEBUG ignition.IgnitionSimulator : Re-indexing world model
+DEBUG ignition.IgnitionSimulator : Finished re-index. Took 51ms
+INFO ignition.IgnitionSimulator : Unrecognised message type: urn:rescuecore2:messages.control:ks_aftershocks_info : TIMES = [], INTENSITIES = []

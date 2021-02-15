@@ -1,0 +1,31 @@
+WARN startup : Unrecognised option: --team
+jar:file:/Users/sos/Desktop/SOS_rescue_agent/sos-server/jars/rescuecore2.jar!/rescuecore2/view/tick.png
+jar:file:/Users/sos/Desktop/SOS_rescue_agent/sos-server/jars/rescuecore2.jar!/rescuecore2/view/cross.png
+jar:file:/Users/sos/Desktop/SOS_rescue_agent/sos-server/jars/sosNamayangar.jar!/sosNamayangar/viewer.png
+jar:file:/Users/sos/Desktop/SOS_rescue_agent/sos-server/jars/sosNamayangar.jar!/sosNamayangar/viewer.png
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.dom4j.io.SAXContentHandler (file:/Users/sos/Desktop/SOS_rescue_agent/sos-server/lib/dom4j.jar) to method com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$LocatorProxy.getEncoding()
+WARNING: Please consider reporting this to the maintainers of org.dom4j.io.SAXContentHandler
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+urn:rescuecore2:messages.control:ks_aftershocks_info : TIMES = [], INTENSITIES = []
+WARN firesimulator.world.World : unable to load radiation sample file "rays/2202800605.rays", sampling:
+75
+ERROR firesimulator.world.World : error while writting radiation sample file "rays/2202800605.rays"
+java.io.IOException: No such file or directory
+	at java.base/java.io.UnixFileSystem.createFileExclusively(Native Method)
+	at java.base/java.io.File.createNewFile(File.java:1024)
+	at firesimulator.world.World.initRayValues(Unknown Source)
+	at firesimulator.world.World.initializeBuildings(Unknown Source)
+	at firesimulator.world.World.initialize(Unknown Source)
+	at firesimulator.simulator.Simulator.initialize(Unknown Source)
+	at firesimulator.FireSimulatorWrapper.postConnect(Unknown Source)
+	at rescuecore2.components.AbstractComponent.postConnect(Unknown Source)
+	at rescuecore2.components.AbstractSimulator.postConnect(Unknown Source)
+	at rescuecore2.components.AbstractSimulator$SimulatorConnectionListener.handleConnectOK(Unknown Source)
+	at rescuecore2.components.AbstractSimulator$SimulatorConnectionListener.messageReceived(Unknown Source)
+	at rescuecore2.connection.AbstractConnection$MessageBroadcastThread.work(Unknown Source)
+	at rescuecore2.misc.WorkerThread.run(Unknown Source)
+[]
+X:587030.9502262444Y:141678.19004524886
+D

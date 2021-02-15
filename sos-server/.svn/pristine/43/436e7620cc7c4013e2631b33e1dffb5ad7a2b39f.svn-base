@@ -1,0 +1,15 @@
+<project>
+  <target name="namayangar" depends="" description="Start the SOS viewer">
+    <java classname="sosNamayangar.Main" classpathref="path.common" fork="yes" maxmemory="1000m" dir="boot">     
+         
+    </java>
+  </target>
+  <target name="soslog-viewer" depends="" description="Start the S.O.S log viewer">
+    <java classname="sosNamayangar.SOSLogViewer" classpathref="path.common" fork="yes" maxmemory="1096m" dir="boot">
+      <arg value="-c"/>
+      <arg value="config"/>
+      <arg value="logs/rescue.log"/>
+    </java>
+  </target>
+
+</project>

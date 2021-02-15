@@ -1,0 +1,1401 @@
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 792327130
+INFO sample.SampleCivilian Civilian[783572643]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[783572643]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[783572643]: Using speak model
+INFO sample.SampleCivilian Civilian[783572643]: Civilian 783572643 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 132451510
+INFO sample.SampleCivilian Civilian[123697023]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[123697023]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[123697023]: Using speak model
+INFO sample.SampleCivilian Civilian[123697023]: Civilian 123697023 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 153288164
+INFO sample.SampleCivilian Civilian[144533677]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[144533677]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[144533677]: Using speak model
+INFO sample.SampleCivilian Civilian[144533677]: Civilian 144533677 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 449118119
+INFO sample.SampleCivilian Civilian[440363632]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[440363632]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[440363632]: Using speak model
+INFO sample.SampleCivilian Civilian[440363632]: Civilian 440363632 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1446755082
+INFO sample.SampleCivilian Civilian[1438000595]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1438000595]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1438000595]: Using speak model
+INFO sample.SampleCivilian Civilian[1438000595]: Civilian 1438000595 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 915717016
+INFO sample.SampleCivilian Civilian[906962529]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[906962529]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[906962529]: Using speak model
+INFO sample.SampleCivilian Civilian[906962529]: Civilian 906962529 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 877283565
+INFO sample.SampleCivilian Civilian[868529078]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[868529078]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[868529078]: Using speak model
+INFO sample.SampleCivilian Civilian[868529078]: Civilian 868529078 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 115702627
+INFO sample.SampleCivilian Civilian[106948140]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[106948140]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[106948140]: Using speak model
+INFO sample.SampleCivilian Civilian[106948140]: Civilian 106948140 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1432680828
+INFO sample.SampleCivilian Civilian[1423926341]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1423926341]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1423926341]: Using speak model
+INFO sample.SampleCivilian Civilian[1423926341]: Civilian 1423926341 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 195915963
+INFO sample.SampleCivilian Civilian[187161476]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[187161476]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[187161476]: Using speak model
+INFO sample.SampleCivilian Civilian[187161476]: Civilian 187161476 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 644463231
+INFO sample.SampleCivilian Civilian[635708744]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[635708744]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[635708744]: Using speak model
+INFO sample.SampleCivilian Civilian[635708744]: Civilian 635708744 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1608463547
+INFO sample.SampleCivilian Civilian[1599709060]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1599709060]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1599709060]: Using speak model
+INFO sample.SampleCivilian Civilian[1599709060]: Civilian 1599709060 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 867948804
+INFO sample.SampleCivilian Civilian[859194317]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[859194317]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[859194317]: Using speak model
+INFO sample.SampleCivilian Civilian[859194317]: Civilian 859194317 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 713059861
+INFO sample.SampleCivilian Civilian[704305374]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[704305374]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[704305374]: Using speak model
+INFO sample.SampleCivilian Civilian[704305374]: Civilian 704305374 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1514667556
+INFO sample.SampleCivilian Civilian[1505913069]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1505913069]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1505913069]: Using speak model
+INFO sample.SampleCivilian Civilian[1505913069]: Civilian 1505913069 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1921824908
+INFO sample.SampleCivilian Civilian[1913070421]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1913070421]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1913070421]: Using speak model
+INFO sample.SampleCivilian Civilian[1913070421]: Civilian 1913070421 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2098561806
+INFO sample.SampleCivilian Civilian[2089807319]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2089807319]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2089807319]: Using speak model
+INFO sample.SampleCivilian Civilian[2089807319]: Civilian 2089807319 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 582727843
+INFO sample.SampleCivilian Civilian[573973356]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[573973356]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[573973356]: Using speak model
+INFO sample.SampleCivilian Civilian[573973356]: Civilian 573973356 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 904407364
+INFO sample.SampleCivilian Civilian[895652877]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[895652877]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[895652877]: Using speak model
+INFO sample.SampleCivilian Civilian[895652877]: Civilian 895652877 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1015407290
+INFO sample.SampleCivilian Civilian[1006652803]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1006652803]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1006652803]: Using speak model
+INFO sample.SampleCivilian Civilian[1006652803]: Civilian 1006652803 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 18601554
+INFO sample.SampleCivilian Civilian[9847067]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[9847067]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[9847067]: Using speak model
+INFO sample.SampleCivilian Civilian[9847067]: Civilian 9847067 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1864864833
+INFO sample.SampleCivilian Civilian[1856110346]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1856110346]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1856110346]: Using speak model
+INFO sample.SampleCivilian Civilian[1856110346]: Civilian 1856110346 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 823096948
+INFO sample.SampleCivilian Civilian[814342461]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[814342461]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[814342461]: Using speak model
+INFO sample.SampleCivilian Civilian[814342461]: Civilian 814342461 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 360131195
+INFO sample.SampleCivilian Civilian[351376708]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[351376708]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[351376708]: Using speak model
+INFO sample.SampleCivilian Civilian[351376708]: Civilian 351376708 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1773993516
+INFO sample.SampleCivilian Civilian[1765239029]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1765239029]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1765239029]: Using speak model
+INFO sample.SampleCivilian Civilian[1765239029]: Civilian 1765239029 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 986861774
+INFO sample.SampleCivilian Civilian[978107287]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[978107287]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[978107287]: Using speak model
+INFO sample.SampleCivilian Civilian[978107287]: Civilian 978107287 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1853026633
+INFO sample.SampleCivilian Civilian[1844272146]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1844272146]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1844272146]: Using speak model
+INFO sample.SampleCivilian Civilian[1844272146]: Civilian 1844272146 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 95812688
+INFO sample.SampleCivilian Civilian[87058201]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[87058201]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[87058201]: Using speak model
+INFO sample.SampleCivilian Civilian[87058201]: Civilian 87058201 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 787587436
+INFO sample.SampleCivilian Civilian[778832949]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[778832949]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[778832949]: Using speak model
+INFO sample.SampleCivilian Civilian[778832949]: Civilian 778832949 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1784959160
+INFO sample.SampleCivilian Civilian[1776204673]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1776204673]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1776204673]: Using speak model
+INFO sample.SampleCivilian Civilian[1776204673]: Civilian 1776204673 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 403814990
+INFO sample.SampleCivilian Civilian[395060503]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[395060503]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[395060503]: Using speak model
+INFO sample.SampleCivilian Civilian[395060503]: Civilian 395060503 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 352406532
+INFO sample.SampleCivilian Civilian[343652045]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[343652045]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[343652045]: Using speak model
+INFO sample.SampleCivilian Civilian[343652045]: Civilian 343652045 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 381946384
+INFO sample.SampleCivilian Civilian[373191897]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[373191897]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[373191897]: Using speak model
+INFO sample.SampleCivilian Civilian[373191897]: Civilian 373191897 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1913546928
+INFO sample.SampleCivilian Civilian[1904792441]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1904792441]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1904792441]: Using speak model
+INFO sample.SampleCivilian Civilian[1904792441]: Civilian 1904792441 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1331597657
+INFO sample.SampleCivilian Civilian[1322843170]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1322843170]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1322843170]: Using speak model
+INFO sample.SampleCivilian Civilian[1322843170]: Civilian 1322843170 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1188248214
+INFO sample.SampleCivilian Civilian[1179493727]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1179493727]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1179493727]: Using speak model
+INFO sample.SampleCivilian Civilian[1179493727]: Civilian 1179493727 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 192593679
+INFO sample.SampleCivilian Civilian[183839192]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[183839192]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[183839192]: Using speak model
+INFO sample.SampleCivilian Civilian[183839192]: Civilian 183839192 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1512280067
+INFO sample.SampleCivilian Civilian[1503525580]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1503525580]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1503525580]: Using speak model
+INFO sample.SampleCivilian Civilian[1503525580]: Civilian 1503525580 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1229242659
+INFO sample.SampleCivilian Civilian[1220488172]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1220488172]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1220488172]: Using speak model
+INFO sample.SampleCivilian Civilian[1220488172]: Civilian 1220488172 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 997404358
+INFO sample.SampleCivilian Civilian[988649871]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[988649871]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[988649871]: Using speak model
+INFO sample.SampleCivilian Civilian[988649871]: Civilian 988649871 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1824347279
+INFO sample.SampleCivilian Civilian[1815592792]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1815592792]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1815592792]: Using speak model
+INFO sample.SampleCivilian Civilian[1815592792]: Civilian 1815592792 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1152748690
+INFO sample.SampleCivilian Civilian[1143994203]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1143994203]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1143994203]: Using speak model
+INFO sample.SampleCivilian Civilian[1143994203]: Civilian 1143994203 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 965427136
+INFO sample.SampleCivilian Civilian[956672649]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[956672649]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[956672649]: Using speak model
+INFO sample.SampleCivilian Civilian[956672649]: Civilian 956672649 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1495044177
+INFO sample.SampleCivilian Civilian[1486289690]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1486289690]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1486289690]: Using speak model
+INFO sample.SampleCivilian Civilian[1486289690]: Civilian 1486289690 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1596830275
+INFO sample.SampleCivilian Civilian[1588075788]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1588075788]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1588075788]: Using speak model
+INFO sample.SampleCivilian Civilian[1588075788]: Civilian 1588075788 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 967798736
+INFO sample.SampleCivilian Civilian[959044249]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[959044249]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[959044249]: Using speak model
+INFO sample.SampleCivilian Civilian[959044249]: Civilian 959044249 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1912477679
+INFO sample.SampleCivilian Civilian[1903723192]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1903723192]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1903723192]: Using speak model
+INFO sample.SampleCivilian Civilian[1903723192]: Civilian 1903723192 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2060379013
+INFO sample.SampleCivilian Civilian[2051624526]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2051624526]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2051624526]: Using speak model
+INFO sample.SampleCivilian Civilian[2051624526]: Civilian 2051624526 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1404894322
+INFO sample.SampleCivilian Civilian[1396139835]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1396139835]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1396139835]: Using speak model
+INFO sample.SampleCivilian Civilian[1396139835]: Civilian 1396139835 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 95409782
+INFO sample.SampleCivilian Civilian[86655295]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[86655295]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[86655295]: Using speak model
+INFO sample.SampleCivilian Civilian[86655295]: Civilian 86655295 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 520298398
+INFO sample.SampleCivilian Civilian[511543911]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[511543911]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[511543911]: Using speak model
+INFO sample.SampleCivilian Civilian[511543911]: Civilian 511543911 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 125896734
+INFO sample.SampleCivilian Civilian[117142247]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[117142247]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[117142247]: Using speak model
+INFO sample.SampleCivilian Civilian[117142247]: Civilian 117142247 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 709788463
+INFO sample.SampleCivilian Civilian[701033976]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[701033976]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[701033976]: Using speak model
+INFO sample.SampleCivilian Civilian[701033976]: Civilian 701033976 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1510105730
+INFO sample.SampleCivilian Civilian[1501351243]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1501351243]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1501351243]: Using speak model
+INFO sample.SampleCivilian Civilian[1501351243]: Civilian 1501351243 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 459842575
+INFO sample.SampleCivilian Civilian[451088088]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[451088088]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[451088088]: Using speak model
+INFO sample.SampleCivilian Civilian[451088088]: Civilian 451088088 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1791988591
+INFO sample.SampleCivilian Civilian[1783234104]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1783234104]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1783234104]: Using speak model
+INFO sample.SampleCivilian Civilian[1783234104]: Civilian 1783234104 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 867064972
+INFO sample.SampleCivilian Civilian[858310485]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[858310485]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[858310485]: Using speak model
+INFO sample.SampleCivilian Civilian[858310485]: Civilian 858310485 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 243498669
+INFO sample.SampleCivilian Civilian[234744182]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[234744182]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[234744182]: Using speak model
+INFO sample.SampleCivilian Civilian[234744182]: Civilian 234744182 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1923640275
+INFO sample.SampleCivilian Civilian[1914885788]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1914885788]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1914885788]: Using speak model
+INFO sample.SampleCivilian Civilian[1914885788]: Civilian 1914885788 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2089043048
+INFO sample.SampleCivilian Civilian[2080288561]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2080288561]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2080288561]: Using speak model
+INFO sample.SampleCivilian Civilian[2080288561]: Civilian 2080288561 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 31316686
+INFO sample.SampleCivilian Civilian[22562199]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[22562199]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[22562199]: Using speak model
+INFO sample.SampleCivilian Civilian[22562199]: Civilian 22562199 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 285637024
+INFO sample.SampleCivilian Civilian[276882537]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[276882537]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[276882537]: Using speak model
+INFO sample.SampleCivilian Civilian[276882537]: Civilian 276882537 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 407312392
+INFO sample.SampleCivilian Civilian[398557905]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[398557905]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[398557905]: Using speak model
+INFO sample.SampleCivilian Civilian[398557905]: Civilian 398557905 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 215613095
+INFO sample.SampleCivilian Civilian[206858608]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[206858608]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[206858608]: Using speak model
+INFO sample.SampleCivilian Civilian[206858608]: Civilian 206858608 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 976490938
+INFO sample.SampleCivilian Civilian[967736451]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[967736451]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[967736451]: Using speak model
+INFO sample.SampleCivilian Civilian[967736451]: Civilian 967736451 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 857070837
+INFO sample.SampleCivilian Civilian[848316350]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[848316350]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[848316350]: Using speak model
+INFO sample.SampleCivilian Civilian[848316350]: Civilian 848316350 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1178092992
+INFO sample.SampleCivilian Civilian[1169338505]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1169338505]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1169338505]: Using speak model
+INFO sample.SampleCivilian Civilian[1169338505]: Civilian 1169338505 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 677898213
+INFO sample.SampleCivilian Civilian[669143726]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[669143726]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[669143726]: Using speak model
+INFO sample.SampleCivilian Civilian[669143726]: Civilian 669143726 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 445199499
+INFO sample.SampleCivilian Civilian[436445012]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[436445012]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[436445012]: Using speak model
+INFO sample.SampleCivilian Civilian[436445012]: Civilian 436445012 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 370660918
+INFO sample.SampleCivilian Civilian[361906431]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[361906431]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[361906431]: Using speak model
+INFO sample.SampleCivilian Civilian[361906431]: Civilian 361906431 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 78476929
+INFO sample.SampleCivilian Civilian[69722442]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[69722442]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[69722442]: Using speak model
+INFO sample.SampleCivilian Civilian[69722442]: Civilian 69722442 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1547351031
+INFO sample.SampleCivilian Civilian[1538596544]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1538596544]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1538596544]: Using speak model
+INFO sample.SampleCivilian Civilian[1538596544]: Civilian 1538596544 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 98841946
+INFO sample.SampleCivilian Civilian[90087459]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[90087459]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[90087459]: Using speak model
+INFO sample.SampleCivilian Civilian[90087459]: Civilian 90087459 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1744517151
+INFO sample.SampleCivilian Civilian[1735762664]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1735762664]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1735762664]: Using speak model
+INFO sample.SampleCivilian Civilian[1735762664]: Civilian 1735762664 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 462840819
+INFO sample.SampleCivilian Civilian[454086332]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[454086332]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[454086332]: Using speak model
+INFO sample.SampleCivilian Civilian[454086332]: Civilian 454086332 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1441371662
+INFO sample.SampleCivilian Civilian[1432617175]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1432617175]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1432617175]: Using speak model
+INFO sample.SampleCivilian Civilian[1432617175]: Civilian 1432617175 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 84928157
+INFO sample.SampleCivilian Civilian[76173670]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[76173670]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[76173670]: Using speak model
+INFO sample.SampleCivilian Civilian[76173670]: Civilian 76173670 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1816183679
+INFO sample.SampleCivilian Civilian[1807429192]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1807429192]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1807429192]: Using speak model
+INFO sample.SampleCivilian Civilian[1807429192]: Civilian 1807429192 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1520088352
+INFO sample.SampleCivilian Civilian[1511333865]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1511333865]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1511333865]: Using speak model
+INFO sample.SampleCivilian Civilian[1511333865]: Civilian 1511333865 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1321930133
+INFO sample.SampleCivilian Civilian[1313175646]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1313175646]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1313175646]: Using speak model
+INFO sample.SampleCivilian Civilian[1313175646]: Civilian 1313175646 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1021587321
+INFO sample.SampleCivilian Civilian[1012832834]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1012832834]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1012832834]: Using speak model
+INFO sample.SampleCivilian Civilian[1012832834]: Civilian 1012832834 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1893682045
+INFO sample.SampleCivilian Civilian[1884927558]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1884927558]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1884927558]: Using speak model
+INFO sample.SampleCivilian Civilian[1884927558]: Civilian 1884927558 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 169039069
+INFO sample.SampleCivilian Civilian[160284582]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[160284582]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[160284582]: Using speak model
+INFO sample.SampleCivilian Civilian[160284582]: Civilian 160284582 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 761135139
+INFO sample.SampleCivilian Civilian[752380652]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[752380652]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[752380652]: Using speak model
+INFO sample.SampleCivilian Civilian[752380652]: Civilian 752380652 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 649684377
+INFO sample.SampleCivilian Civilian[640929890]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[640929890]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[640929890]: Using speak model
+INFO sample.SampleCivilian Civilian[640929890]: Civilian 640929890 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 72768195
+INFO sample.SampleCivilian Civilian[64013708]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[64013708]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[64013708]: Using speak model
+INFO sample.SampleCivilian Civilian[64013708]: Civilian 64013708 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1282482883
+INFO sample.SampleCivilian Civilian[1273728396]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1273728396]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1273728396]: Using speak model
+INFO sample.SampleCivilian Civilian[1273728396]: Civilian 1273728396 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 549141468
+INFO sample.SampleCivilian Civilian[540386981]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[540386981]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[540386981]: Using speak model
+INFO sample.SampleCivilian Civilian[540386981]: Civilian 540386981 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 546421763
+INFO sample.SampleCivilian Civilian[537667276]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[537667276]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[537667276]: Using speak model
+INFO sample.SampleCivilian Civilian[537667276]: Civilian 537667276 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1923365391
+INFO sample.SampleCivilian Civilian[1914610904]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1914610904]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1914610904]: Using speak model
+INFO sample.SampleCivilian Civilian[1914610904]: Civilian 1914610904 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1673915077
+INFO sample.SampleCivilian Civilian[1665160590]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1665160590]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1665160590]: Using speak model
+INFO sample.SampleCivilian Civilian[1665160590]: Civilian 1665160590 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1804661512
+INFO sample.SampleCivilian Civilian[1795907025]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1795907025]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1795907025]: Using speak model
+INFO sample.SampleCivilian Civilian[1795907025]: Civilian 1795907025 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1168230706
+INFO sample.SampleCivilian Civilian[1159476219]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1159476219]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1159476219]: Using speak model
+INFO sample.SampleCivilian Civilian[1159476219]: Civilian 1159476219 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 695309113
+INFO sample.SampleCivilian Civilian[686554626]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[686554626]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[686554626]: Using speak model
+INFO sample.SampleCivilian Civilian[686554626]: Civilian 686554626 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 367892688
+INFO sample.SampleCivilian Civilian[359138201]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[359138201]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[359138201]: Using speak model
+INFO sample.SampleCivilian Civilian[359138201]: Civilian 359138201 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 840092606
+INFO sample.SampleCivilian Civilian[831338119]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[831338119]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[831338119]: Using speak model
+INFO sample.SampleCivilian Civilian[831338119]: Civilian 831338119 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1922427499
+INFO sample.SampleCivilian Civilian[1913673012]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1913673012]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1913673012]: Using speak model
+INFO sample.SampleCivilian Civilian[1913673012]: Civilian 1913673012 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1704904591
+INFO sample.SampleCivilian Civilian[1696150104]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1696150104]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1696150104]: Using speak model
+INFO sample.SampleCivilian Civilian[1696150104]: Civilian 1696150104 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1835040975
+INFO sample.SampleCivilian Civilian[1826286488]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1826286488]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1826286488]: Using speak model
+INFO sample.SampleCivilian Civilian[1826286488]: Civilian 1826286488 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 33221444
+INFO sample.SampleCivilian Civilian[24466957]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[24466957]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[24466957]: Using speak model
+INFO sample.SampleCivilian Civilian[24466957]: Civilian 24466957 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1920998306
+INFO sample.SampleCivilian Civilian[1912243819]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1912243819]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1912243819]: Using speak model
+INFO sample.SampleCivilian Civilian[1912243819]: Civilian 1912243819 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1458751279
+INFO sample.SampleCivilian Civilian[1449996792]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1449996792]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1449996792]: Using speak model
+INFO sample.SampleCivilian Civilian[1449996792]: Civilian 1449996792 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1595555418
+INFO sample.SampleCivilian Civilian[1586800931]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1586800931]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1586800931]: Using speak model
+INFO sample.SampleCivilian Civilian[1586800931]: Civilian 1586800931 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 464695754
+INFO sample.SampleCivilian Civilian[455941267]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[455941267]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[455941267]: Using speak model
+INFO sample.SampleCivilian Civilian[455941267]: Civilian 455941267 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1795375855
+INFO sample.SampleCivilian Civilian[1786621368]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1786621368]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1786621368]: Using speak model
+INFO sample.SampleCivilian Civilian[1786621368]: Civilian 1786621368 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1978275770
+INFO sample.SampleCivilian Civilian[1969521283]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1969521283]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1969521283]: Using speak model
+INFO sample.SampleCivilian Civilian[1969521283]: Civilian 1969521283 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1135296629
+INFO sample.SampleCivilian Civilian[1126542142]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1126542142]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1126542142]: Using speak model
+INFO sample.SampleCivilian Civilian[1126542142]: Civilian 1126542142 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 808754458
+INFO sample.SampleCivilian Civilian[799999971]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[799999971]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[799999971]: Using speak model
+INFO sample.SampleCivilian Civilian[799999971]: Civilian 799999971 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1741407319
+INFO sample.SampleCivilian Civilian[1732652832]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1732652832]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1732652832]: Using speak model
+INFO sample.SampleCivilian Civilian[1732652832]: Civilian 1732652832 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 152962586
+INFO sample.SampleCivilian Civilian[144208099]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[144208099]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[144208099]: Using speak model
+INFO sample.SampleCivilian Civilian[144208099]: Civilian 144208099 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 124437382
+INFO sample.SampleCivilian Civilian[115682895]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[115682895]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[115682895]: Using speak model
+INFO sample.SampleCivilian Civilian[115682895]: Civilian 115682895 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1597193016
+INFO sample.SampleCivilian Civilian[1588438529]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1588438529]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1588438529]: Using speak model
+INFO sample.SampleCivilian Civilian[1588438529]: Civilian 1588438529 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 48160720
+INFO sample.SampleCivilian Civilian[39406233]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[39406233]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[39406233]: Using speak model
+INFO sample.SampleCivilian Civilian[39406233]: Civilian 39406233 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 394306389
+INFO sample.SampleCivilian Civilian[385551902]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[385551902]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[385551902]: Using speak model
+INFO sample.SampleCivilian Civilian[385551902]: Civilian 385551902 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2025539171
+INFO sample.SampleCivilian Civilian[2016784684]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2016784684]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2016784684]: Using speak model
+INFO sample.SampleCivilian Civilian[2016784684]: Civilian 2016784684 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1513141689
+INFO sample.SampleCivilian Civilian[1504387202]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1504387202]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1504387202]: Using speak model
+INFO sample.SampleCivilian Civilian[1504387202]: Civilian 1504387202 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1874754484
+INFO sample.SampleCivilian Civilian[1865999997]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1865999997]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1865999997]: Using speak model
+INFO sample.SampleCivilian Civilian[1865999997]: Civilian 1865999997 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1710702959
+INFO sample.SampleCivilian Civilian[1701948472]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1701948472]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1701948472]: Using speak model
+INFO sample.SampleCivilian Civilian[1701948472]: Civilian 1701948472 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1263380680
+INFO sample.SampleCivilian Civilian[1254626193]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1254626193]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1254626193]: Using speak model
+INFO sample.SampleCivilian Civilian[1254626193]: Civilian 1254626193 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1672769421
+INFO sample.SampleCivilian Civilian[1664014934]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1664014934]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1664014934]: Using speak model
+INFO sample.SampleCivilian Civilian[1664014934]: Civilian 1664014934 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 528665771
+INFO sample.SampleCivilian Civilian[519911284]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[519911284]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[519911284]: Using speak model
+INFO sample.SampleCivilian Civilian[519911284]: Civilian 519911284 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1329454186
+INFO sample.SampleCivilian Civilian[1320699699]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1320699699]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1320699699]: Using speak model
+INFO sample.SampleCivilian Civilian[1320699699]: Civilian 1320699699 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 811326369
+INFO sample.SampleCivilian Civilian[802571882]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[802571882]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[802571882]: Using speak model
+INFO sample.SampleCivilian Civilian[802571882]: Civilian 802571882 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1894522562
+INFO sample.SampleCivilian Civilian[1885768075]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1885768075]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1885768075]: Using speak model
+INFO sample.SampleCivilian Civilian[1885768075]: Civilian 1885768075 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 599781378
+INFO sample.SampleCivilian Civilian[591026891]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[591026891]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[591026891]: Using speak model
+INFO sample.SampleCivilian Civilian[591026891]: Civilian 591026891 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 589447326
+INFO sample.SampleCivilian Civilian[580692839]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[580692839]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[580692839]: Using speak model
+INFO sample.SampleCivilian Civilian[580692839]: Civilian 580692839 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 817299306
+INFO sample.SampleCivilian Civilian[808544819]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[808544819]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[808544819]: Using speak model
+INFO sample.SampleCivilian Civilian[808544819]: Civilian 808544819 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 774126863
+INFO sample.SampleCivilian Civilian[765372376]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[765372376]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[765372376]: Using speak model
+INFO sample.SampleCivilian Civilian[765372376]: Civilian 765372376 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 426006503
+INFO sample.SampleCivilian Civilian[417252016]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[417252016]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[417252016]: Using speak model
+INFO sample.SampleCivilian Civilian[417252016]: Civilian 417252016 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1299147683
+INFO sample.SampleCivilian Civilian[1290393196]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1290393196]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1290393196]: Using speak model
+INFO sample.SampleCivilian Civilian[1290393196]: Civilian 1290393196 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2124220884
+INFO sample.SampleCivilian Civilian[2115466397]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2115466397]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2115466397]: Using speak model
+INFO sample.SampleCivilian Civilian[2115466397]: Civilian 2115466397 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1193701731
+INFO sample.SampleCivilian Civilian[1184947244]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1184947244]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1184947244]: Using speak model
+INFO sample.SampleCivilian Civilian[1184947244]: Civilian 1184947244 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1824799714
+INFO sample.SampleCivilian Civilian[1816045227]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1816045227]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1816045227]: Using speak model
+INFO sample.SampleCivilian Civilian[1816045227]: Civilian 1816045227 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2096053290
+INFO sample.SampleCivilian Civilian[2087298803]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2087298803]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2087298803]: Using speak model
+INFO sample.SampleCivilian Civilian[2087298803]: Civilian 2087298803 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2136275271
+INFO sample.SampleCivilian Civilian[2127520784]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2127520784]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2127520784]: Using speak model
+INFO sample.SampleCivilian Civilian[2127520784]: Civilian 2127520784 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1411677853
+INFO sample.SampleCivilian Civilian[1402923366]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1402923366]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1402923366]: Using speak model
+INFO sample.SampleCivilian Civilian[1402923366]: Civilian 1402923366 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1035959153
+INFO sample.SampleCivilian Civilian[1027204666]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1027204666]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1027204666]: Using speak model
+INFO sample.SampleCivilian Civilian[1027204666]: Civilian 1027204666 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 189757192
+INFO sample.SampleCivilian Civilian[181002705]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[181002705]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[181002705]: Using speak model
+INFO sample.SampleCivilian Civilian[181002705]: Civilian 181002705 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 719562363
+INFO sample.SampleCivilian Civilian[710807876]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[710807876]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[710807876]: Using speak model
+INFO sample.SampleCivilian Civilian[710807876]: Civilian 710807876 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1655197242
+INFO sample.SampleCivilian Civilian[1646442755]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1646442755]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1646442755]: Using speak model
+INFO sample.SampleCivilian Civilian[1646442755]: Civilian 1646442755 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 902415257
+INFO sample.SampleCivilian Civilian[893660770]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[893660770]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[893660770]: Using speak model
+INFO sample.SampleCivilian Civilian[893660770]: Civilian 893660770 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1951583772
+INFO sample.SampleCivilian Civilian[1942829285]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1942829285]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1942829285]: Using speak model
+INFO sample.SampleCivilian Civilian[1942829285]: Civilian 1942829285 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2031925465
+INFO sample.SampleCivilian Civilian[2023170978]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2023170978]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2023170978]: Using speak model
+INFO sample.SampleCivilian Civilian[2023170978]: Civilian 2023170978 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1895116939
+INFO sample.SampleCivilian Civilian[1886362452]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1886362452]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1886362452]: Using speak model
+INFO sample.SampleCivilian Civilian[1886362452]: Civilian 1886362452 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1868012326
+INFO sample.SampleCivilian Civilian[1859257839]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1859257839]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1859257839]: Using speak model
+INFO sample.SampleCivilian Civilian[1859257839]: Civilian 1859257839 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1050663570
+INFO sample.SampleCivilian Civilian[1041909083]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1041909083]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1041909083]: Using speak model
+INFO sample.SampleCivilian Civilian[1041909083]: Civilian 1041909083 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1159980298
+INFO sample.SampleCivilian Civilian[1151225811]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1151225811]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1151225811]: Using speak model
+INFO sample.SampleCivilian Civilian[1151225811]: Civilian 1151225811 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1073478000
+INFO sample.SampleCivilian Civilian[1064723513]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1064723513]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1064723513]: Using speak model
+INFO sample.SampleCivilian Civilian[1064723513]: Civilian 1064723513 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 87508245
+INFO sample.SampleCivilian Civilian[78753758]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[78753758]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[78753758]: Using speak model
+INFO sample.SampleCivilian Civilian[78753758]: Civilian 78753758 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 346985618
+INFO sample.SampleCivilian Civilian[338231131]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[338231131]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[338231131]: Using speak model
+INFO sample.SampleCivilian Civilian[338231131]: Civilian 338231131 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1814517064
+INFO sample.SampleCivilian Civilian[1805762577]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1805762577]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1805762577]: Using speak model
+INFO sample.SampleCivilian Civilian[1805762577]: Civilian 1805762577 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2091023650
+INFO sample.SampleCivilian Civilian[2082269163]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2082269163]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2082269163]: Using speak model
+INFO sample.SampleCivilian Civilian[2082269163]: Civilian 2082269163 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1002998907
+INFO sample.SampleCivilian Civilian[994244420]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[994244420]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[994244420]: Using speak model
+INFO sample.SampleCivilian Civilian[994244420]: Civilian 994244420 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 759420349
+INFO sample.SampleCivilian Civilian[750665862]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[750665862]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[750665862]: Using speak model
+INFO sample.SampleCivilian Civilian[750665862]: Civilian 750665862 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1048811259
+INFO sample.SampleCivilian Civilian[1040056772]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1040056772]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1040056772]: Using speak model
+INFO sample.SampleCivilian Civilian[1040056772]: Civilian 1040056772 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1249147629
+INFO sample.SampleCivilian Civilian[1240393142]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1240393142]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1240393142]: Using speak model
+INFO sample.SampleCivilian Civilian[1240393142]: Civilian 1240393142 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 717454233
+INFO sample.SampleCivilian Civilian[708699746]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[708699746]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[708699746]: Using speak model
+INFO sample.SampleCivilian Civilian[708699746]: Civilian 708699746 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1980444461
+INFO sample.SampleCivilian Civilian[1971689974]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1971689974]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1971689974]: Using speak model
+INFO sample.SampleCivilian Civilian[1971689974]: Civilian 1971689974 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 200850501
+INFO sample.SampleCivilian Civilian[192096014]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[192096014]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[192096014]: Using speak model
+INFO sample.SampleCivilian Civilian[192096014]: Civilian 192096014 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2053708455
+INFO sample.SampleCivilian Civilian[2044953968]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2044953968]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2044953968]: Using speak model
+INFO sample.SampleCivilian Civilian[2044953968]: Civilian 2044953968 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1408316714
+INFO sample.SampleCivilian Civilian[1399562227]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1399562227]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1399562227]: Using speak model
+INFO sample.SampleCivilian Civilian[1399562227]: Civilian 1399562227 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1635897750
+INFO sample.SampleCivilian Civilian[1627143263]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1627143263]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1627143263]: Using speak model
+INFO sample.SampleCivilian Civilian[1627143263]: Civilian 1627143263 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 820724215
+INFO sample.SampleCivilian Civilian[811969728]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[811969728]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[811969728]: Using speak model
+INFO sample.SampleCivilian Civilian[811969728]: Civilian 811969728 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1095610789
+INFO sample.SampleCivilian Civilian[1086856302]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1086856302]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1086856302]: Using speak model
+INFO sample.SampleCivilian Civilian[1086856302]: Civilian 1086856302 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 116723725
+INFO sample.SampleCivilian Civilian[107969238]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[107969238]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[107969238]: Using speak model
+INFO sample.SampleCivilian Civilian[107969238]: Civilian 107969238 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 971823837
+INFO sample.SampleCivilian Civilian[963069350]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[963069350]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[963069350]: Using speak model
+INFO sample.SampleCivilian Civilian[963069350]: Civilian 963069350 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2069633865
+INFO sample.SampleCivilian Civilian[2060879378]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2060879378]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2060879378]: Using speak model
+INFO sample.SampleCivilian Civilian[2060879378]: Civilian 2060879378 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 682293757
+INFO sample.SampleCivilian Civilian[673539270]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[673539270]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[673539270]: Using speak model
+INFO sample.SampleCivilian Civilian[673539270]: Civilian 673539270 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1850730093
+INFO sample.SampleCivilian Civilian[1841975606]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1841975606]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1841975606]: Using speak model
+INFO sample.SampleCivilian Civilian[1841975606]: Civilian 1841975606 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1883899926
+INFO sample.SampleCivilian Civilian[1875145439]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1875145439]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1875145439]: Using speak model
+INFO sample.SampleCivilian Civilian[1875145439]: Civilian 1875145439 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1500695338
+INFO sample.SampleCivilian Civilian[1491940851]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1491940851]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1491940851]: Using speak model
+INFO sample.SampleCivilian Civilian[1491940851]: Civilian 1491940851 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2099951318
+INFO sample.SampleCivilian Civilian[2091196831]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2091196831]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2091196831]: Using speak model
+INFO sample.SampleCivilian Civilian[2091196831]: Civilian 2091196831 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 824566579
+INFO sample.SampleCivilian Civilian[815812092]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[815812092]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[815812092]: Using speak model
+INFO sample.SampleCivilian Civilian[815812092]: Civilian 815812092 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1827821123
+INFO sample.SampleCivilian Civilian[1819066636]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1819066636]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1819066636]: Using speak model
+INFO sample.SampleCivilian Civilian[1819066636]: Civilian 1819066636 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 876729341
+INFO sample.SampleCivilian Civilian[867974854]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[867974854]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[867974854]: Using speak model
+INFO sample.SampleCivilian Civilian[867974854]: Civilian 867974854 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 71041854
+INFO sample.SampleCivilian Civilian[62287367]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[62287367]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[62287367]: Using speak model
+INFO sample.SampleCivilian Civilian[62287367]: Civilian 62287367 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 2048526717
+INFO sample.SampleCivilian Civilian[2039772230]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[2039772230]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[2039772230]: Using speak model
+INFO sample.SampleCivilian Civilian[2039772230]: Civilian 2039772230 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1173315048
+INFO sample.SampleCivilian Civilian[1164560561]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1164560561]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1164560561]: Using speak model
+INFO sample.SampleCivilian Civilian[1164560561]: Civilian 1164560561 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1166884369
+INFO sample.SampleCivilian Civilian[1158129882]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1158129882]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1158129882]: Using speak model
+INFO sample.SampleCivilian Civilian[1158129882]: Civilian 1158129882 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 236271009
+INFO sample.SampleCivilian Civilian[227516522]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[227516522]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[227516522]: Using speak model
+INFO sample.SampleCivilian Civilian[227516522]: Civilian 227516522 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1289897710
+INFO sample.SampleCivilian Civilian[1281143223]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1281143223]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1281143223]: Using speak model
+INFO sample.SampleCivilian Civilian[1281143223]: Civilian 1281143223 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 437995951
+INFO sample.SampleCivilian Civilian[429241464]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[429241464]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[429241464]: Using speak model
+INFO sample.SampleCivilian Civilian[429241464]: Civilian 429241464 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 745442129
+INFO sample.SampleCivilian Civilian[736687642]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[736687642]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[736687642]: Using speak model
+INFO sample.SampleCivilian Civilian[736687642]: Civilian 736687642 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 712026452
+INFO sample.SampleCivilian Civilian[703271965]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[703271965]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[703271965]: Using speak model
+INFO sample.SampleCivilian Civilian[703271965]: Civilian 703271965 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1163263880
+INFO sample.SampleCivilian Civilian[1154509393]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1154509393]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1154509393]: Using speak model
+INFO sample.SampleCivilian Civilian[1154509393]: Civilian 1154509393 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 501147898
+INFO sample.SampleCivilian Civilian[492393411]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[492393411]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[492393411]: Using speak model
+INFO sample.SampleCivilian Civilian[492393411]: Civilian 492393411 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1271257905
+INFO sample.SampleCivilian Civilian[1262503418]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1262503418]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1262503418]: Using speak model
+INFO sample.SampleCivilian Civilian[1262503418]: Civilian 1262503418 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1605240617
+INFO sample.SampleCivilian Civilian[1596486130]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1596486130]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1596486130]: Using speak model
+INFO sample.SampleCivilian Civilian[1596486130]: Civilian 1596486130 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1512467638
+INFO sample.SampleCivilian Civilian[1503713151]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1503713151]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1503713151]: Using speak model
+INFO sample.SampleCivilian Civilian[1503713151]: Civilian 1503713151 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 144206893
+INFO sample.SampleCivilian Civilian[135452406]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[135452406]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[135452406]: Using speak model
+INFO sample.SampleCivilian Civilian[135452406]: Civilian 135452406 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 301839283
+INFO sample.SampleCivilian Civilian[293084796]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[293084796]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[293084796]: Using speak model
+INFO sample.SampleCivilian Civilian[293084796]: Civilian 293084796 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1244666843
+INFO sample.SampleCivilian Civilian[1235912356]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1235912356]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1235912356]: Using speak model
+INFO sample.SampleCivilian Civilian[1235912356]: Civilian 1235912356 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 233007007
+INFO sample.SampleCivilian Civilian[224252520]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[224252520]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[224252520]: Using speak model
+INFO sample.SampleCivilian Civilian[224252520]: Civilian 224252520 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1142956539
+INFO sample.SampleCivilian Civilian[1134202052]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1134202052]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1134202052]: Using speak model
+INFO sample.SampleCivilian Civilian[1134202052]: Civilian 1134202052 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1434321106
+INFO sample.SampleCivilian Civilian[1425566619]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1425566619]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1425566619]: Using speak model
+INFO sample.SampleCivilian Civilian[1425566619]: Civilian 1425566619 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 840315953
+INFO sample.SampleCivilian Civilian[831561466]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[831561466]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[831561466]: Using speak model
+INFO sample.SampleCivilian Civilian[831561466]: Civilian 831561466 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1674682734
+INFO sample.SampleCivilian Civilian[1665928247]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1665928247]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1665928247]: Using speak model
+INFO sample.SampleCivilian Civilian[1665928247]: Civilian 1665928247 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1055860511
+INFO sample.SampleCivilian Civilian[1047106024]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1047106024]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1047106024]: Using speak model
+INFO sample.SampleCivilian Civilian[1047106024]: Civilian 1047106024 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1727033123
+INFO sample.SampleCivilian Civilian[1718278636]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1718278636]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1718278636]: Using speak model
+INFO sample.SampleCivilian Civilian[1718278636]: Civilian 1718278636 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry
+DEBUG sample.SampleCivilian : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG sample.SampleCivilian : Using seed 1892287716
+INFO sample.SampleCivilian Civilian[1883533229]: Sample civilian connected
+DEBUG sample.SampleCivilian Civilian[1883533229]: Communcation model: rescuecore2.standard.kernel.comms.ChannelCommunicationModel
+DEBUG sample.SampleCivilian Civilian[1883533229]: Using speak model
+INFO sample.SampleCivilian Civilian[1883533229]: Civilian 1883533229 connected
+DEBUG sample.SampleCivilian : Starting Connection from sample.SampleCivilian. Registry: SampleCivilian filter registry

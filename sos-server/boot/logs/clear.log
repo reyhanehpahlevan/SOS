@@ -1,0 +1,7 @@
+DEBUG clear.ClearSimulator : Starting Connection from Area model clear simulator. Registry: Kernel local registry
+DEBUG clear.ClearSimulator : Instantiating random number generator: org.uncommons.maths.random.MersenneTwisterRNG
+DEBUG clear.ClearSimulator : Using seed 8754487
+INFO clear.ClearSimulator : clear.ClearSimulator@246fa5e6 connected
+DEBUG clear.ClearSimulator : Re-indexing world model
+DEBUG clear.ClearSimulator : Finished re-index. Took 51ms
+INFO clear.ClearSimulator : Unrecognised message type: urn:rescuecore2:messages.control:ks_aftershocks_info : TIMES = [], INTENSITIES = []

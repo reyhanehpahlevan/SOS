@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+
+Exec=sh -c "cd /home/$USER/Desktop/sos-server/boot ;java -cp ../jars/sosNamayangar.jar sosNamayangar.SOSMapChooser"
+#Exec=gnome-terminal --working-directory /home/ali/Desktop/sos-server/boot -e java -cp ../jars/sosNamayangar.jar sosNamayangar.SOSMapChooser
+
+Name=SOS Map Chooser
+Comment=SOS Map Chooser
+Icon=/home/sos/Desktop/sos-server/supplement/mapschooser.png
