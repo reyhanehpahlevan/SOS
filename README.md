@@ -73,7 +73,7 @@ Agents will be launched one by one with an unique ID assigned to them which you 
 
 
 ## Start the simulation
-Now everything you need is ready to start the simulation and see how your agents will save the city when the disaster happen!
+Go to map GUI and press either "step" or "Run" button to see the simulation step by step or continuesly. Now everything you need is ready to start the simulation and see how your agents will save the city when the disaster happen!
 
 ![run](/doc/imgs/11-run.png)
 
